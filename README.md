@@ -10,8 +10,6 @@ Welcome to the Rock-Paper-Scissors game! This project is a simple, fun, and inte
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Game
 
@@ -36,4 +34,28 @@ To run this game locally on your machine, follow these simple steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/PragaTurbo/Rock-paper-scissors.git
+2. ***Navigate to the project directory:**
+   ```bash
+   cd Rock-paper-scissors
+2. ***Open index.html in your preferred web browser:**
+   ```bash
+   open index.html
+
+
+
+## How to Play
+
+1. Open the game in your web browser.
+2. Choose your move by clicking on either Rock, Paper, or Scissors.
+3. The computer will randomly select its move.
+4. The result of the game will be displayed, along with the updated score.
+
+Enjoy the game and try to beat the computer!
+
+## Technologies Used
+
+- **HTML5:** For structuring the web content.
+- **CSS3:** For styling and layout.
+- **JavaScript:** For game logic and interactivity.
+
 
