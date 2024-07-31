@@ -35,4 +35,5 @@ To run this game locally on your machine, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-git clone https://github.com/PragaTurbo/Rock-paper-scissors.git
+   git clone https://github.com/PragaTurbo/Rock-paper-scissors.git
+
